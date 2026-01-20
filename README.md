@@ -5,4 +5,5 @@ Apendendo Autenticação no Github
     1. HTTPS
     2. TOKEN
     3. SSH
-
+    4. Two Factores
+    
