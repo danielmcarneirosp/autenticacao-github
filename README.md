@@ -1,6 +1,8 @@
-# Autenticação - Github
+# AUTENTICAÇÃO NO GITHUB - APRENDENDO COM A DIO.
 Apendendo Autenticação no Github
 
-  1. AUTENTICAÇÃO VIA HTTPS
-  2. AUTENTICAÇÃO VIA TOKEN
-  
+##  TIPOS DE AUTENTICAÇÃO
+    1. HTTPS
+    2. TOKEN
+    3. SSH
+
